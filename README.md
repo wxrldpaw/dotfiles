@@ -220,12 +220,17 @@
 <table><tbody>
 <tr>
 <td width="50%" valign="top">
+<img src="wallpapers/mobile/nature/flowers_1.jpg" alt="Flowers 1" width="100%">
+
+<strong>Flowers 1</strong><br>
+<sub>640 × 800</sub>
+</td>
+<td width="50%" valign="top">
 <img src="wallpapers/mobile/nature/leaves_1.jpg" alt="Leaves 1" width="100%">
 
 <strong>Leaves 1</strong><br>
 <sub>600 × 1200 · FHD</sub>
 </td>
-<td width="50%"></td>
 </tr>
 </tbody></table>
 
@@ -292,4 +297,4 @@
 
 ---
 
-<sub>28 wallpapers · Automatically generated</sub>
+<sub>29 wallpapers · Automatically generated</sub>
