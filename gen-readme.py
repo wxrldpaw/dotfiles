@@ -254,10 +254,7 @@ def build(out: Path, root: Path, wallpapers: list[Wallpaper]) -> str:
 
         for category in categories:
             category_title = format_category(category)
-            heading = (
-                f"{format_category(device)} {category_title}"
-            )
-            category_anchor = anchors.make(heading)
+            category_anchor = anchors.make(category_title)
 
             lines.append(
                 f"    - [{category_title}](#{category_anchor})"
